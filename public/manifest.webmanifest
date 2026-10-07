@@ -1,0 +1,17 @@
+{
+  "name": "BOCIL LAB",
+  "short_name": "BOCIL LAB",
+  "description": "Laboratorium hacker untuk bocil pemberani — belajar ethical hacking lewat misi berflag yang aman dan legal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040d08",
+  "theme_color": "#1b1a17",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
